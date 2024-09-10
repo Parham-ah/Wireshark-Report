@@ -1,2 +1,3 @@
-# Wireshark-Report
-Report on the review and analysis of DNS and TLS protocols in Wireshark
+# Wireshark-Report-DNS
+Report on the review and analysis of DNS protocol in wireshark.
+
